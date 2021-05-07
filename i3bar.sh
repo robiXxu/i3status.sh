@@ -1,6 +1,6 @@
 #!/bin/sh
 
-path="$HOME/root/personal/i3status"
+path="$HOME/root/personal/i3status.sh"
 bg_bar_color="#2E3440"
 
 declare -A bgColor
